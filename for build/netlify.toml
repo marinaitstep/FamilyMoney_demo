@@ -1,0 +1,62 @@
+[[redirects]]
+  from = "/accounts"
+  to = "https://pensive-davinci-c419fe.netlify.app/"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
+
+[[redirects]]
+  from = "/categories"
+  to = "https://pensive-davinci-c419fe.netlify.app/"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
+
+[[redirects]]
+  from = "/categoryIn"
+  to = "https://pensive-davinci-c419fe.netlify.app/"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
+
+[[redirects]]
+  from = "/categoryOut"
+  to = "https://pensive-davinci-c419fe.netlify.app/"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
+
+[[redirects]]
+  from = "/profit"
+  to = "https://pensive-davinci-c419fe.netlify.app/"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
+
+[[redirects]]
+  from = "/spend"
+  to = "https://pensive-davinci-c419fe.netlify.app/"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
+
+[[redirects]]
+  from = "/transfer"
+  to = "https://pensive-davinci-c419fe.netlify.app/"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
+
+[[redirects]]
+  from = "/notes"
+  to = "https://pensive-davinci-c419fe.netlify.app/"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
+
+[[redirects]]
+  from = "/balance"
+  to = "https://pensive-davinci-c419fe.netlify.app/"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
